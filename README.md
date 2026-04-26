@@ -19,3 +19,8 @@
     </td>
   </tr>
 </table>
+## FOLLOWERS
+
+<p align="center">
+  <img src="./github-metrics-people.svg" alt="Followers" width="100%">
+</p>
