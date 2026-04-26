@@ -7,9 +7,6 @@
 
 <!-- Metrics flotando a la izquierda, todo lo demás a la derecha -->
 <!-- Terminal arriba -->
-<p align="center">
-  <img src="./github-metrics-terminal.svg" alt="Description" width="100%">
-</p>
 
 <!-- Metrics flotando a la izquierda, followers a la derecha -->
 <img src="./github-metrics.svg" alt="GitHub Metrics" align="left" width="60%">
