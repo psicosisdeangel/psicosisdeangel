@@ -1,24 +1,13 @@
-<!-- Banner templeOS -->
-
-
 <!-- Terminal como descripción/intro, ancho completo -->
 <p align="center">
   <img src="./github-metrics-terminal.svg" alt="Description" width="100%">
 </p>
 
-<!-- Metrics + Topics en dos columnas, ancho completo -->
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
-    </td>
-    <td width="35%" valign="top">
-      <img src="./github-metrics-topics.svg" alt="Starred Topics" width="100%">
-    </td>
-  </tr>
-</table>
+<!-- Metrics flotando a la izquierda, todo lo demás a la derecha -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" align="left" width="60%">
 
-<!-- Followers ancho completo -->
-<p align="center">
-  <img src="./github-metrics-people.svg" alt="Followers" width="100%">
-</p>
+<img src="./github-metrics-topics.svg" alt="Starred Topics" width="38%">
+
+<img src="./github-metrics-people.svg" alt="Followers" width="38%">
+
+<br clear="left">
