@@ -16,7 +16,7 @@
 
 <img src="./github-metrics-people.svg" alt="Followers" width="38%">
 
-<img src="./github-metrics-topics.svg" alt="Starred Topics" width="38%">
+<img src="./github-metrics-topics-icons.svg" alt="topics icons" width="38%">
 
 <br clear="left">
 
