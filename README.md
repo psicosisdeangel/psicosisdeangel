@@ -1,6 +1,7 @@
-<!-- Banner Pokmon arriba -->
+
+<!-- templeOs -->
 <p align="center">
-  <img src="https://github.com/lowlighter/gracidea/raw/main/copyrighted/animated_map.gif" width="100%">
+  <img src="./assets/mi-banner.gif" alt="Banner" width="100%">
 </p>
 
 <!-- Terminal como descripción/intro, ancho completo -->
