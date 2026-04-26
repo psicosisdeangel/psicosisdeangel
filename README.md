@@ -3,4 +3,13 @@
 </p>
 <h1><b>My GitHub statistics</b></h1>
 
-![Metrics](./github-metrics.svg)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+    </td>
+    <td width="35%" valign="top">
+      <img src="./github-metrics-topics.svg" alt="Starred Topics" width="100%">
+    </td>
+  </tr>
+</table>
