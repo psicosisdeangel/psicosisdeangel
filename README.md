@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-<h1>Followers</h1>
+<h3>Followers</h3>
 <p align="center">
   <img src="./github-metrics-people.svg" alt="Followers" width="100%">
 </p>
