@@ -53,3 +53,22 @@ jobs:
           plugin_topics_mode: labels
           plugin_topics_sort: stars
           plugin_topics_limit: 15
+
+  github-metrics-terminal:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: psicosisdeangel
+          template: terminal
+          base: header, metadata
+          config_timezone: America/Bogota
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
