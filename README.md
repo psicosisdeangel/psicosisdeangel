@@ -1,4 +1,6 @@
-<!-- Terminal como descripción/intro, ancho completo -->
+<p align="center">
+  <img src="./assets/templeOS dos.gif" alt="Banner" width="100%">
+</p>
 <p align="center">
   <img src="./github-metrics-terminal.svg" alt="Description" width="100%">
 </p>
