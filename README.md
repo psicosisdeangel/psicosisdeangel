@@ -1,7 +1,6 @@
-
 <!-- templeOs -->
 <p align="center">
-  <img src="psicosisdeangel/assets/templeOs-dos.gif" alt="Banner" width="100%">
+  <img src="./assets/templeOs-dos.gif" alt="Banner" width="100%">
 </p>
 
 <!-- Terminal como descripción/intro, ancho completo -->
