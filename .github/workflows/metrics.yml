@@ -39,6 +39,11 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
 
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_topics_limit: 0
+
   # Job 2: Topics en modo labels (lateral derecho del README)
   github-metrics-topics:
     runs-on: ubuntu-latest
