@@ -9,6 +9,6 @@
 <img src="./github-metrics.svg" alt="GitHub Metrics" align="left" width="60%">
 
 
-<img src="./github-metrics-people.svg" alt="Followers" width="38%">
+<img src="./github-metrics-people.svg" alt="Followers" width="100%">
 
 <br clear="left">
