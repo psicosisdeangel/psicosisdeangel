@@ -1,3 +1,3 @@
-## 📊 Mis estadísticas de GitHub
+My GitHub statistics
 
 ![Metrics](./github-metrics.svg)
