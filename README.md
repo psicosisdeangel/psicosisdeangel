@@ -1,8 +1,14 @@
+<!-- Banner Pokmon arriba -->
 <p align="center">
-  <img src="https://github.com/lowlighter/gracidea/raw/main/copyrighted/animated_map.gif" alt="Pokémon map banner" width="100%">
+  <img src="https://github.com/lowlighter/gracidea/raw/main/copyrighted/animated_map.gif" width="100%">
 </p>
-<h1><b>My GitHub statistics</b></h1>
 
+<!-- Terminal como descripción/intro, ancho completo -->
+<p align="center">
+  <img src="./github-metrics-terminal.svg" alt="Description" width="100%">
+</p>
+
+<!-- Metrics + Topics en dos columnas -->
 <table>
   <tr>
     <td width="65%" valign="top">
