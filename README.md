@@ -23,5 +23,5 @@
 
 
 <p align="center">
-  <img src="./github-metrics-people.svg" alt="Followers" width="900%">
+  <img src="./github-metrics-people.svg" alt="Followers" width="50%">
 </p>
