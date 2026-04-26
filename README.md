@@ -1,6 +1,6 @@
 <!-- Banner templeOS -->
 <p align="center">
-  <img src="./assets/templeOS dos.gif" alt="Banner" width="60%">
+  <img src="./assets/templeOS dos.gif" alt="Banner" width="100%">
 </p>
 
 <!-- Terminal como descripción/intro, ancho completo -->
