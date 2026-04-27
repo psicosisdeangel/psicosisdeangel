@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/templeOS dos.gif" alt="Banner" width="100%">
+  <img src="./assets/homunculus-banner.jpg" alt="Banner" width="100%">
 </p>
 
 <table width="100%">
