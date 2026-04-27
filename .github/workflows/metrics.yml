@@ -74,3 +74,34 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_topics_limit: 0
+
+    # Job 6: Template Markdown (genera un .md, no un SVG)
+  github-metrics-markdown:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.markdown.full.md
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: psicosisdeangel
+          template: markdown
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
+          config_output: markdown
+
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          plugin_topics: yes
+          plugin_topics_limit: 24
+
+          plugin_isocalendar: yes
+
+          plugin_languages: yes
+
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
