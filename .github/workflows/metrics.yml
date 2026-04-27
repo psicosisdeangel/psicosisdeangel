@@ -105,7 +105,7 @@ jobs:
           user: psicosisdeangel
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: TU_USUARIO_ANILIST
+          plugin_anilist_user: psicosisdeangel
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: yes
