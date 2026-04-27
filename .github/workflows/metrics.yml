@@ -107,7 +107,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: psicosisdeangel
           plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
+          plugin_anilist_limit_characters: 20
           plugin_anilist_shuffle: yes
 # Job 9: letcode
   github-metrics-leetcode:
