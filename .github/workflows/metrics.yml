@@ -40,22 +40,6 @@ jobs:
           plugin_followup_sections: repositories
 
 
-  # Job 2: Topics en modo labels
-  github-metrics-topics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics-topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: psicosisdeangel
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: labels
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
 
   # Job 4: People (followers)
   github-metrics-people:
