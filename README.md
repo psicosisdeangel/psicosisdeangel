@@ -10,7 +10,9 @@
     <td width="40%" valign="top">
       <img src="./github-metrics-people.svg" alt="Followers" width="100%">
       <br><br>
-      <img src="./github-metrics-topics-icons.svg" alt="Topics Icons" width="100%">
+      <img src="./github-metrics-topics-icons.svg" alt="Topics Icons" width="100%">\
+        <br><br>
+      <img src="./github-metrics-manga.svg" alt="Manga" width="100%">
     </td>
   </tr>
 </table>
