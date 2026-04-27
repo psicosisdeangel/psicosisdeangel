@@ -14,7 +14,7 @@
         <br><br>
       <img src="./github-metrics-manga.svg" alt="Manga" width="100%">
       <br><br>
-      <img src="./github-metrics-characters:" alt="Characters" width="100%">
+      <img src="./github-metrics-characters.svg" alt="Characters" width="100%">
     </td>
   </tr>
 </table>
