@@ -18,7 +18,7 @@
 </table>
 <!-- Banner de manga al final -->
 <p align="center">
-  <img src="./assets/gantz.png" alt="Manga banner" width="100%">
+  <img src="./assets/gantz.jpg" alt="Manga banner" width="100%">
 </p>
 <!-- <p align="center">
  -- <img src="./github-metrics-terminal.svg" alt="Description" width="100%"> 
