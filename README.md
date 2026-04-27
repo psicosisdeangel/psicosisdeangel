@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/templeOS dos.gif" alt="Banner" width="100%">
 </p>
-📄 [Ver mis métricas detalladas](./metrics.markdown.full.md)
+
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
