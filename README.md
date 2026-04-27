@@ -13,7 +13,7 @@
       <img src="./github-metrics-topics-icons.svg" alt="Topics Icons" width="100%">
         <br><br>
       <img src="./github-metrics-manga.svg" alt="Manga" width="100%">
-      <br><br>
+        <br><br>
       <img src="./github-metrics-characters.svg" alt="characters" width="100%">
     </td>
   </tr>
