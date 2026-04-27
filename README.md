@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pokemon-pixel-dos.gif" alt="Banner" width="100%">
+  <img src="./assets/pokemon-hunter.gif" alt="Banner" width="100%">
 </p>
 
 <table width="100%">
