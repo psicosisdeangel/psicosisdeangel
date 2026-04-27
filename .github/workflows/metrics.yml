@@ -87,7 +87,7 @@ jobs:
           user: psicosisdeangel
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: TU_USUARIO_ANILIST
+          plugin_anilist_user: psicosisdeangel
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
           plugin_anilist_limit: 2
