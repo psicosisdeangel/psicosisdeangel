@@ -73,7 +73,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_sort: stars
-          plugin_topics_limit: 50
+          plugin_topics_limit: 0
 # Job 7: AniList 
   github-metrics-manga:
     runs-on: ubuntu-latest
