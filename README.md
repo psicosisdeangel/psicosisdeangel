@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/homunculus-banner.jpg" alt="Banner" width="100%">
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=psicosisdeangel&style=for-the-badge&color=blueviolet)
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
